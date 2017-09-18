@@ -1,0 +1,10 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+#bash {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 22px;
+}
